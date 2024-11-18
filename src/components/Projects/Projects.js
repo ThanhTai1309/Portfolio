@@ -44,8 +44,8 @@ function Projects() {
               isBlog={false}
               title="Portfolio"
               description="I just completed and deployed my personal portfolio website with modern design and optimized user experience. The website is built using [technology you use such as HTML, TailwindCSS, JS, React...] and is where I showcase my skills, projects, and work style. Come visit to explore the journey and products I've made! 🌟"
-              ghLink="https://github.com/devbaoo/BilliardsManagement"
-              demoLink="https://billiardsmanagement.azurewebsites.net/"
+              ghLink="https://github.com/ThanhTai1309/Portfolio"
+              demoLink="https://dev-portfolio-fet29jmgi-thanhtai1309s-projects.vercel.app/"
             />
           </Col>
         </Row>
